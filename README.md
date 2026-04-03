@@ -1,5 +1,21 @@
 # Android-News-App
 A student who is studying Android crafted a news app using Android Studio
+## Preview:
+On Pixel Tablet:
+
+<img width="498" height="312" alt="Screenshot 2026-04-03 at 11 15 45 AM" src="https://github.com/user-attachments/assets/bc82d435-a524-4cad-bcd5-7c2ac16d5cdf" />
+
+On Pixel Phone:
+
+<img width="358" height="793" alt="Screenshot 2026-04-03 at 11 16 31 AM" src="https://github.com/user-attachments/assets/7f62727b-25fd-4ffb-98c8-4c2bbdf0e593" />
+
+## My effort:
+<img width="1512" height="982" alt="updated_news app_likes_1" src="https://github.com/user-attachments/assets/807d70bc-9143-4495-b53e-d00d908a3e3e" />
+<img width="1512" height="982" alt="updated_news app_share" src="https://github.com/user-attachments/assets/b2369b3a-c28d-49cb-8c5d-5debf4e9b3d2" />
+<img width="1512" height="975" alt="News app_phone" src="https://github.com/user-attachments/assets/8a02ea0d-6a35-4008-b1a0-630457bd1b68" />
+<img width="1512" height="945" alt="News app_tablet" src="https://github.com/user-attachments/assets/68f37071-f67c-49f8-9c41-f3b8fcc4498c" />
+
+
 
 ## Simple News App Development Guide
 ### 1. Prerequisites
@@ -60,4 +76,5 @@ Before starting, ensure you have the following:
     * Proper display of headlines and content.
     * Responsive layout in dual and single-page modes.
     * Functionality of new features (charts, logos, like/share buttons).
+ 
 
